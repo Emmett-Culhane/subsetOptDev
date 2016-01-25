@@ -1,6 +1,9 @@
 # subsetOptDev
 
-# cvxpy [solutions for subset sum employing the cvxpy optimization library]
+python/subsum_cvxpy.py
+	Function for computing subset sum on a synthetic dataset
 
-# brute [solutions for subset sum employing a brute force dynamic programming approach]
+python/run-test.py
+	Function (stub) for running scaling experiments
+
 
